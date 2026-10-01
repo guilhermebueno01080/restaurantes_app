@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Restaurante</string>
+    <string name="titulo">Controle de lotação</string>
+    <string name="status_pode_entrar">Pode entrar</string>
+    <string name="status_lotado">Lotado</string>
+    <string name="entrar">Entrar</string>
+    <string name="sair">Sair</string>
+    <string name="ocupacao_lotado">Todos os %1$d lugares ocupados</string>
+    <plurals name="lugares_livres">
+        <item quantity="one">%1$d lugar livre</item>
+        <item quantity="other">%1$d lugares livres</item>
+    </plurals>
+</resources>

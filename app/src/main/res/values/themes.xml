@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- O app usa texto claro sobre a foto, então o tema é sempre escuro. -->
+    <style name="Base.Theme.Restaurantes" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/status_livre</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+
+    <style name="Theme.Restaurantes" parent="Base.Theme.Restaurantes" />
+</resources>
